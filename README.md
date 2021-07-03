@@ -5,6 +5,7 @@ This fork of Zombie Survival intends to replicate the experience of an older ver
 
 # Changes
 - Removed all new weapons from the arsenal (They still exist in the files so weapons in maps can still be given to players)
+- Removed remantlers from the worth/arsenal.
 - Removed all new zombies/bosses, evolutions. Simplified game, uncluttered class menu.
 - Removed trinkets and reimplemented traits.
 - Changed zombie hp/speed values back to what they were.
