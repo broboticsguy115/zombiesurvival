@@ -1,0 +1,1 @@
+SRL={{["Class"]="info_player_undead",["Angles"]=Angle(0,-151.11936950684,0),["Position"]=Vector(-2057.018555, -2497.596680, -191.968750)}
