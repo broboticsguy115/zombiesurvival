@@ -13,5 +13,5 @@ This fork of Zombie Survival intends to replicate the experience of an older ver
 - Made shade only able to be damaged by flashlights again
 - Reverted arsenal crate/worth menu graphics
 - Reverted to old font
-- # To-do:
+# To do:
 - Make bonemesh able to climb to counter survivors in high places
